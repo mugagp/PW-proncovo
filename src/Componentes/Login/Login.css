@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Darumadrop+One&display=swap');
+.container__login{
+    border: 2px solid #f7941e ;
+    width: 500px;
+    height: 450px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    border-radius: 16px;
+      
+}
+.container__login h1{
+    font-family: 'Darumadrop One', cursive;
+    font-size: 60px;
+}
+.container__login h1, h2{
+    color: #fdc280;
+    margin-bottom: 8px;
+    text-align: center;
+}
+.container__login label{
+    color: #fdc280;
+}
+.container__login button{
+    margin-top: 16px;
+    width: 99%;
+}
+

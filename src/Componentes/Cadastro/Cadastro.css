@@ -1,0 +1,24 @@
+.container__cadastro{
+    border: 2px solid #f7941e ;
+    width: 500px;
+    height: 450px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 16px;
+      
+}
+.container__cadastro h1, h2{
+    color: #fdc280;
+    margin-bottom: 8px;
+    text-align: center;
+}
+.container__cadastro label{
+    color: #fdc280;
+}
+.container__cadastro button{
+    margin-top: 16px;
+    width: 99%;
+}
+
