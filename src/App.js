@@ -4,8 +4,8 @@ import Login from './Componentes/Login';
 
 function App() {
   return (
-    <div className="App">
-      <Login/>
+    <div className="App" >
+      <Login className="teste"/>
     <Cadastro/>
     </div>
   );
